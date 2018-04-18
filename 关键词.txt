@@ -1,0 +1,10 @@
+embedding(尤其是word embedding)
+knowledge（尤其是knowledge graph。knoledge base，也行吧）
+completion
+semantic
+representation
+disambiguating（消岐）
+natural language
+acquisition（获取，尤其是konwledge acquisition）
+reason(推理，但是还没碰到过)
+alignment
