@@ -10,7 +10,10 @@ reason(推理，但是还没碰到过)
 alignment
 named entity recognition（命名实体识别）
 
+KBC(knowledge base completion) link prediction,论文里看的，解决知识库不完整（incomplete）的问题的，extend knowlwdge base 
 
+
+latent feature model(一个补全的模型)
 
 
 
