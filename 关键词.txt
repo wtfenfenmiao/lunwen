@@ -1,4 +1,4 @@
-embedding(尤其是word embedding)
+embedding(尤其是word embedding，或者带representation的，表示学习)
 knowledge（尤其是knowledge graph。knoledge base，也行吧）
 completion（这个应该是补全）
 semantic
