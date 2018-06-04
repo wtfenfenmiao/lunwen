@@ -1,0 +1,2 @@
+表示学习：多源信息融合，用知识库内和知识库外海量文本信息（参考知识表示研究进展那个综述）；trans系列embedding的映射问题，映射方法
+name entity type：mention和entity我觉得可以引入一点点消岐来提升
